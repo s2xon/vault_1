@@ -1,3 +1,10 @@
+---
+aliases:
+  - Idea Dump
+  - Brainstorm
+tags:
+  - idea
+---
 # Ideas
 
 A place to dump ideas. Link them to projects or keep them loose.

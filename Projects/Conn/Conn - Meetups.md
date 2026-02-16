@@ -1,3 +1,9 @@
+---
+aliases:
+  - Meetups
+tags:
+  - project/conn
+---
 # Meetups
 
 Back to [[Conn - Overview]]

@@ -1,3 +1,12 @@
+---
+aliases:
+  - CS 362
+  - Software Engineering II
+  - SE2
+tags:
+  - school
+  - school/cs362
+---
 # CS 362 - Software Engineering II
 
 Back to [[School]]

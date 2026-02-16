@@ -1,3 +1,10 @@
+---
+aliases:
+  - Classes
+  - Courses
+tags:
+  - school
+---
 # School
 
 ---

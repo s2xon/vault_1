@@ -1,3 +1,10 @@
+---
+aliases:
+  - Groups
+  - Genres
+tags:
+  - project/conn
+---
 # Groups & Genres
 
 Back to [[Conn - Overview]]

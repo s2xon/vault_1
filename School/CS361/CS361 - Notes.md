@@ -1,3 +1,12 @@
+---
+aliases:
+  - CS 361
+  - Software Engineering I
+  - SE1
+tags:
+  - school
+  - school/cs361
+---
 # CS 361 - Software Engineering I
 
 Back to [[School]]

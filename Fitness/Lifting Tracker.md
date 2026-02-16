@@ -1,3 +1,11 @@
+---
+aliases:
+  - Gym
+  - Workouts
+  - Lifting
+tags:
+  - fitness
+---
 # Lifting Tracker
 
 Track your workouts below. Copy a blank row to log each session.

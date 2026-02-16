@@ -1,3 +1,12 @@
+---
+aliases:
+  - CS 381
+  - Programming Language Fundamentals
+  - PLF
+tags:
+  - school
+  - school/cs381
+---
 # CS 381 - Programming Language Fundamentals
 
 Back to [[School]]

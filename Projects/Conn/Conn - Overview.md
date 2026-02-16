@@ -1,3 +1,12 @@
+---
+aliases:
+  - Conn
+  - Conn App
+  - Meetup App
+tags:
+  - project
+  - project/conn
+---
 # Conn
 
 An in-person and online meetup app. Meet real people around shared interests.

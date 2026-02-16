@@ -1,3 +1,9 @@
+---
+aliases:
+  - Profiles
+tags:
+  - project/conn
+---
 # User Profiles
 
 Back to [[Conn - Overview]]

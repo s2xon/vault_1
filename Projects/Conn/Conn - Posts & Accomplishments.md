@@ -1,3 +1,11 @@
+---
+aliases:
+  - Posts
+  - Accomplishments
+  - Stars
+tags:
+  - project/conn
+---
 # Posts & Accomplishments
 
 Back to [[Conn - Overview]]

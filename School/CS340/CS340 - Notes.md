@@ -1,3 +1,12 @@
+---
+aliases:
+  - CS 340
+  - Intro to Databases
+  - Databases
+tags:
+  - school
+  - school/cs340
+---
 # CS 340 - Introduction to Databases
 
 Back to [[School]]
