@@ -32,6 +32,19 @@ tags:
 
 ---
 
+## Catch-Up
+
+- [[CS Catch-Up Roadmap]] — all CS gaps, prioritized
+- [[Algorithms Catch-Up]] — Jeff Erickson relearn plan
+
+---
+
+## Reviews
+
+- [[2026-02-24 Review]]
+
+---
+
 ## Other
 
 - [[Ideas]] — idea dump

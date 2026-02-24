@@ -56,6 +56,9 @@ Tags let a note belong to multiple categories. You don't have to remember these 
 | `#fitness`      | Workouts, lifting, health                  |
 | `#idea`         | Random ideas, things to explore            |
 | `#nav`          | Navigation/dashboard pages                 |
+| `#daily`        | Daily notes                                |
+| `#cs/algorithms`| Algorithms study and catch-up              |
+| `#review`       | Daily productivity reviews                 |
 
 New tags get added here as the vault grows.
 
