@@ -106,4 +106,5 @@ Occurs when a language automatically converts one type to another — e.g., `flo
 
 ## Related
 
+- [[CS381 - Notes]]
 - [[Stack Machines]]

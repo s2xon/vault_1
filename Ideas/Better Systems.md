@@ -24,7 +24,7 @@ A structured daily schedule built around the most important blocks:
 
 ## Improvement Log
 
-### 2026-02-23
+### [[2026-02-23]]
 
 - Woke up at 5am, hit the gym — good, but skipped a few sets rushing to get to studying
 - Coffee shop study session in the morning

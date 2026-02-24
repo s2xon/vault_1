@@ -30,6 +30,7 @@ Back to [[School]]
 - Scope & binding
 - [[Stack Machines]] — bytecode VMs, interpreters
 - [[Types and Polymorphism]] — static/dynamic typing, subtype, parametric, ad-hoc, coercion
+- [[CS381 - Assignment 5]] — stack language rank checker
 
 ---
 

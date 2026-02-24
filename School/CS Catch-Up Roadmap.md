@@ -29,6 +29,8 @@ Part of [[School]]
 
 ## Algorithms
 
+See also: [[Algorithms Catch-Up]] — active relearn plan (Jeff Erickson + Abdul Bari)
+
 **Courses:** CS 325 — Analysis of Algorithms (Fall 2025), CS 261 — Data Structures (Spring 2025)
 
 ### Big O / Complexity
@@ -154,6 +156,8 @@ Part of [[School]]
 
 ## Databases
 
+See also: [[CS340 - Notes|CS 340]]
+
 **Courses:** CS 340 — Introduction to Databases (Summer 2025)
 
 ### Relational Model
@@ -266,6 +270,8 @@ Part of [[School]]
 ---
 
 ## Language Fundamentals
+
+See also: [[CS381 - Notes|CS 381]], [[Stack Machines]], [[Types and Polymorphism]]
 
 **Courses:** CS 381 — Programming Language Fundamentals (Winter 2026, current), CS 271 — Computer Arch & Assembly Language (Spring 2025)
 

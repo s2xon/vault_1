@@ -9,6 +9,8 @@ tags:
 ---
 # Conn
 
+Part of [[Ideas]] — back to [[Home]]
+
 An in-person and online meetup app. Meet real people around shared interests.
 
 ---
