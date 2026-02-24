@@ -11,10 +11,14 @@
             "id": "55b162d827febd3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-02-24.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-02-24"
             }
           }
         ]
@@ -96,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "475e00fc683e41c5",
@@ -162,7 +166,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f1e9947f80795e1",
+  "active": "55b162d827febd3e",
   "lastOpenFiles": [
     "School/CS381/Stack Machines.md",
     "Daily Notes/2026-02-24.md",
