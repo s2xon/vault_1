@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-02-24"
             }
+          },
+          {
+            "id": "254aea8ba8f5e44f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,9 +165,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "a6b39dfa58d286d0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55b162d827febd3e",
+  "active": "254aea8ba8f5e44f",
   "lastOpenFiles": [
-    "School/CS381/Stack Machines.md",
+    "conflict-files-obsidian-git.md",
     "Daily Notes/2026-02-24.md",
+    "School/CS381/Stack Machines.md",
     "Daily Notes/2026-02-23.md",
     "Daily Notes",
     "School/CS381/Types and Polymorphism.md",
