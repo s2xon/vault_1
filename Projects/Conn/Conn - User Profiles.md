@@ -2,6 +2,7 @@
 aliases:
   - Profiles
 tags:
+  - project
   - project/conn
 ---
 # User Profiles

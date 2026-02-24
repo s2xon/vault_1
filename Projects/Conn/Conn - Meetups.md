@@ -2,6 +2,7 @@
 aliases:
   - Meetups
 tags:
+  - project
   - project/conn
 ---
 # Meetups

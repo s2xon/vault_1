@@ -28,6 +28,8 @@ Back to [[School]]
 - Haskell
 - Grammars & parsing
 - Scope & binding
+- [[Stack Machines]] — bytecode VMs, interpreters
+- [[Types and Polymorphism]] — static/dynamic typing, subtype, parametric, ad-hoc, coercion
 
 ---
 

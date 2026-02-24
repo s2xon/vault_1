@@ -4,6 +4,7 @@ aliases:
   - Accomplishments
   - Stars
 tags:
+  - project
   - project/conn
 ---
 # Posts & Accomplishments
