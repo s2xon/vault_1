@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 14379520
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7706669234327503,
+  "scale": 1.3525459003078728,
   "close": false
 }
