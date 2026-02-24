@@ -1,0 +1,3 @@
+- [ ] adde3df tasks 
+- [ ] need to implement the con funvtion that goes and gets all numbers and returns an int
+- [ ] need to implement white and black box testingq
