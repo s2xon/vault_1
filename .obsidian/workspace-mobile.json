@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-02-24"
             }
-          },
-          {
-            "id": "254aea8ba8f5e44f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily Notes/2026-02-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "254aea8ba8f5e44f",
+  "active": "55b162d827febd3e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Daily Notes/2026-02-24.md",
