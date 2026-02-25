@@ -73,6 +73,8 @@ Went over basics
 
 Alright now i am starting on doing leet code for this stuff
 
+this is really confusi
+
 
 
 ---
