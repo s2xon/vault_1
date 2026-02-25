@@ -19,6 +19,8 @@ This one has a super confusing example buts its fine basically just ignore every
 - then we merge
 This one is pretty easy (Do a merge sort leetcode problem)
 
+O(n) basiaclly becuase we split twice. I kinfa forgot this part
+
 1.5 Quick sort
 Then it looks like mergesort is keep dividing the sub arrays till base case then build up sort merge recurse like that
 
