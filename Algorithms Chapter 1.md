@@ -11,3 +11,14 @@ I hate the induction hypothesis. Also this chapter is super easy.
 
 1.3 Tower of Hanoi
 This one has a super confusing example buts its fine basically just ignore everything but the bottom disk to the last disk is always the base case and you use the temp needle as a way to recursivley get largest to smallest up to down
+![[Pasted image 20260225083906.png]]
+
+1.4 Merge Sort
+- First we split array into 2
+- Then we sort
+- then we merge
+This one is pretty easy (Do a merge sort leetcode problem)
+
+1.5 Quick sort
+Then it looks like mergesort is keep dividing the sub arrays till base case then build up sort merge recurse like that
+
