@@ -62,6 +62,20 @@ Abdul Bari video: https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLAXnLdrLnQpR
 
 ---
 
+# Abdul's Notes
+Abdul Bari video: https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=2
+This is the video I watched
+
+Went over basics
+
+---
+# Top K Element
+
+Alright now i am starting on doing leet code for this stuff
+
+
+
+---
 ## Claude Notes
 
 - **Merge sort is O(n log n), not O(n).** The recurrence is T(n) = 2T(n/2) + O(n), which resolves to O(n log n) via the Master Theorem. You split *twice* but you also merge *n* elements at each level across *log n* levels.
