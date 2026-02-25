@@ -15,15 +15,16 @@ Part of [[School]] — see also [[CS Catch-Up Roadmap]]
 ## Study Loop
 
 For each topic:
-1. Read the theory (Jeff Erickson's *Algorithms* — free at [jeffe.cs.illinois.edu](http://jeffe.cs.illinois.edu/teaching/algorithms/))
-2. Watch Abdul Bari on YouTube for visual walkthroughs
-3. Solve one LeetCode problem to lock it in
+1. Skim previous notes on the topic
+2. 30 min — Jeff Erickson's *Algorithms* textbook (free at [jeffe.cs.illinois.edu](http://jeffe.cs.illinois.edu/teaching/algorithms/))
+3. 20 min — Abdul Bari on YouTube for visual walkthrough
+4. 40 min — LeetCode problem to lock it in
 
 ---
 
 ## Topics to Cover
 
-### 1. Recursion & Induction
+### 1. Recursion & Induction → [[Algorithms - Ch1 Recursion]]
 
 - Mathematical induction (proof technique)
 - Writing recursive algorithms
