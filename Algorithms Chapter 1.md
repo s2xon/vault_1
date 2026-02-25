@@ -10,3 +10,4 @@ This topic is pretty easy for recursion basically just break the idea into small
 I hate the induction hypothesis. Also this chapter is super easy.
 
 1.3 Tower of Hanoi
+This one has a super confusing example buts its fine basically just ignore everything but the bottom disk to the last disk is always the base case and you use the temp needle as a way to recursivley get largest to smallest up to down
