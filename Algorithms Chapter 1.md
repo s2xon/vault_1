@@ -24,3 +24,7 @@ O(n) basiaclly becuase we split twice. I kinfa forgot this part
 1.5 Quick sort
 Then it looks like mergesort is keep dividing the sub arrays till base case then build up sort merge recurse like that
 
+Abdul Video Section
+
+https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=2
+

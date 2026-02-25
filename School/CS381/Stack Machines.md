@@ -65,6 +65,13 @@ Prog ::= [Cmd]
 
 ---
 
+## Claude Notes
+
+- The description "translates instructions in real time for execution on the CPU" describes JIT compilation, but not all stack VMs do this — many interpret bytecode directly without translating to native code. The JVM can do both. Worth clarifying which model your class is using.
+- A well-ranked program ensures no underflow, but it's also worth noting that rank alone doesn't guarantee *correctness* — a program can be well-ranked and still leave garbage on the stack.
+
+---
+
 ## Related
 
 - [[CS381 - Notes]]

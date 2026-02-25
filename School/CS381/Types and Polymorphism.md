@@ -6,7 +6,7 @@ tags:
   - school
   - school/cs381
 ---
-	  # Types and Polymorphism
+# Types and Polymorphism
 
 Part of [[CS381 - Notes]]
 
@@ -101,6 +101,14 @@ Similar to function overloading in C++. An **Eq class** is a group of types that
 ## Coercion Polymorphism
 
 Occurs when a language automatically converts one type to another — e.g., `float` to `int`.
+
+---
+
+## Claude Notes
+
+- The dynamic typing advantage listed as "detects some type errors at runtime" is technically true but misleading — it's more accurate to say dynamic typing is *more flexible* (allows programs to run that a static checker would reject). Detecting errors at runtime is more of a limited consolation than a genuine advantage.
+- The note for subtype polymorphism (`<T>` → same behavior, many types / `virtual` → different behavior, same interface) is a clean summary but worth double-checking: `<T>` is template/generic syntax (parametric), not subtype. They got mixed together in the slide — keep that distinction clear.
+- Coercion polymorphism is sometimes called *implicit type conversion* or *type coercion* — these terms show up in exams.
 
 ---
 

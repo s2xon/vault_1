@@ -126,3 +126,11 @@ For each topic:
 2. Dynamic Programming (highest ROI)
 3. Graphs + MST
 4. Complexity Theory
+
+---
+
+## Claude Notes
+
+- Merge sort is the best first LeetCode target for recursion — it directly demonstrates divide-and-conquer and recurrence relations (T(n) = 2T(n/2) + O(n) → O(n log n)).
+- For Dynamic Programming, start with Fibonacci (memoized vs bottom-up) before jumping to LIS or Edit Distance — the simpler problems build the exact intuition you need.
+- The Master Theorem listed under Asymptotic Analysis is crucial — it's the fast way to solve most divide-and-conquer recurrences without doing the full tree expansion.
