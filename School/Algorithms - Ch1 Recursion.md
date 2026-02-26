@@ -52,37 +52,41 @@ Pretty straightforward. (Do a merge sort LeetCode problem)
 
 Next up — keep dividing sub-arrays until the base case, then build back up. Similar shape to merge sort but different pivot-based splitting logic.
 
-Abdul Bari video: https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=2
+*(Come back to this — needs more notes)*
+
+---
+
+## Abdul Bari — Recursion Video
+
+https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=2
+
+Went over the basics of recursion. Good visual walkthrough of the same ideas as Ch1.
+
+---
+
+## LeetCode Attempts
+
+| Problem | Status | Notes |
+|---------|--------|-------|
+| Top K Element | ❌ Confused | Wrong problem — this is a heap problem, not recursion. Come back after heaps. |
+| Merge Sort (Sort an Array) | ⬜ Not started | Do this one next — directly matches Ch1 content |
 
 ---
 
 ## Next Time
 
-- Add: how to design an algorithm and analyze its complexity (forgot this part but it'll be easy to remember)
+- Finish 1.5 Quick Sort notes
+- How to design an algorithm and analyze its complexity
+- Do the merge sort LeetCode problem
 
 ---
 
-# Abdul's Notes
-Abdul Bari video: https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=2
-This is the video I watched
-
-Went over basics
-
----
-# Top K Element
-
-Alright now i am starting on doing leet code for this stuff
-
-this is really confusi
-
-
-
----
 ## Claude Notes
 
-- **Merge sort is O(n log n), not O(n).** The recurrence is T(n) = 2T(n/2) + O(n), which resolves to O(n log n) via the Master Theorem. You split *twice* but you also merge *n* elements at each level across *log n* levels.
-- Section 1.5 doesn't have real quick sort content yet — the description there is still merge sort. Quick sort uses a *pivot* to partition in place rather than merging. Come back to this.
-- The induction hypothesis point in 1.2 is correct — recursive correctness proofs are literally induction. Worth connecting this back to the Big-O proofs in Ch2.
+- **Merge sort is O(n log n), not O(n).** The recurrence is T(n) = 2T(n/2) + O(n), which resolves to O(n log n) via the Master Theorem. You split twice but also merge *n* elements at each level across *log n* levels.
+- Section 1.5 is still empty — the description there is still merge sort. Quick sort uses a *pivot* to partition in place rather than merging.
+- The induction hypothesis point in 1.2 is correct — recursive correctness proofs are literally induction. Worth connecting this to Big-O proofs in Ch2.
+- **Top K Element is a heap/priority queue problem, not recursion.** Stick to merge sort LeetCode first.
 
 ---
 
