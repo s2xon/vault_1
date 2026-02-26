@@ -39,6 +39,10 @@ tags:
 
 ---
 
+## Daily Notes
+
+- [[Daily Log]] — all days
+
 ## Reviews
 
 - [[2026-02-25 Review]]

@@ -29,7 +29,7 @@ Part of [[School]]
 
 ## Algorithms
 
-See also: [[Algorithms Catch-Up]] — active relearn plan (Jeff Erickson + Abdul Bari)
+Active plan: [[Algorithms Catch-Up]] — Jeff Erickson + Abdul Bari + LeetCode
 
 **Courses:** CS 325 — Analysis of Algorithms (Fall 2025), CS 261 — Data Structures (Spring 2025)
 
