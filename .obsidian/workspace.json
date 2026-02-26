@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f614bdd8cb743cce",
+        "id": "aad204716530d3e5",
         "type": "tabs",
         "children": [
           {
-            "id": "8788bd4e6466aff6",
+            "id": "d16e7786bfe6130b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviews/2026-02-24 Review.md",
+                "file": "memory/MEMORY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-24 Review"
+              "title": "MEMORY"
             }
           }
         ]
@@ -181,8 +181,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8788bd4e6466aff6",
+  "active": "d16e7786bfe6130b",
   "lastOpenFiles": [
+    "Daily Notes/2026-02-25.md",
+    "Reviews/2026-02-24 Review.md",
     "Home.md",
     "Daily Notes/Daily Log.md",
     "Untitled.base",
@@ -190,7 +192,6 @@
     "memory/MEMORY.md",
     "memory",
     "School/Algorithms - Ch1 Recursion.md",
-    "Daily Notes/2026-02-25.md",
     "Untitled.md",
     "Algorithms study system.md",
     "Algorithms Chapter 1.md",
@@ -198,7 +199,6 @@
     "Pasted image 20260225083906.png",
     "2-25-2026.md",
     "Daily Notes/2026-02-23.md",
-    "Reviews/2026-02-24 Review.md",
     "Daily Notes/2026-02-24.md",
     "Reviews",
     "School/CS362/CS362 - Project.md",
