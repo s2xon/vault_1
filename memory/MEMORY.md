@@ -83,6 +83,19 @@ Every school content note should have a `## Claude Notes` section at the bottom 
 ## Daily Log
 `Daily Notes/Daily Log.md` — index of all daily notes + reviews, newest first. Update this every session when a new daily note or review is created.
 
+## Review Structure
+```
+Reviews/
+  Reviews.md         ← hub, back to Home
+  Daily/             ← one per day, format: YYYY-MM-DD Review.md
+  Monthly/           ← one per month, format: YYYY-MM MonthName.md
+  Yearly/            ← one per year, format: YYYY.md
+```
+- Wikilinks resolve by filename in Obsidian — moving files doesn't break links
+- Every session: update the current month's review (Monthly/YYYY-MM MonthName.md) with new patterns, observations, and advice based on new daily reviews
+- Monthly review links up to Yearly, Yearly links up to Reviews hub
+- When writing a new daily review, also add a row to Reviews.md daily table and update the monthly review
+
 ---
 
 ## User Preferences

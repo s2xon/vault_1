@@ -45,8 +45,9 @@ tags:
 
 ## Reviews
 
-- [[2026-02-25 Review]]
-- [[2026-02-24 Review]]
+- [[Reviews]] — hub (daily / monthly / yearly)
+- [[2026-02 February]] — current month
+- [[2026]] — current year
 
 ---
 
