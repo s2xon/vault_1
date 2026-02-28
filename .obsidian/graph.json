@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 2741503
       }
+    },
+    {
+      "query": "tag:japanese",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": true,
@@ -75,5 +82,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.354346095031314,
-  "close": false
+  "close": true
 }

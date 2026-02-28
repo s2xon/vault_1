@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49129f45f6fd3c62",
+        "id": "7483c02d3f6fc071",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc04900f0076e64",
+            "id": "fe81438e5d79c1fc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0bdc98af229b8634",
@@ -189,8 +188,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "ccc04900f0076e64",
+  "active": "fe81438e5d79c1fc",
   "lastOpenFiles": [
+    "Reviews/Weekly/2026-W09.md",
+    "Grammar.md",
+    "Japanese/Japanese.md",
+    "Academic/Academic.md",
+    "Reviews/Weekly",
+    "Japanese/Grammar",
+    "Japanese",
+    "Academic/Algorithms/Algorithms Catch-Up.md",
+    "Academic/Algorithms/Algorithms - Ch1 Recursion.md",
+    "Academic/Algorithms/Algorithms - Ch1 Recursion - Deep Dive.md",
+    "Academic/CS Catch-Up Roadmap.md",
+    "Academic/Algorithms",
+    "Academic",
     "School/CS Catch-Up Roadmap.md",
     "School/CS381/CS381 - Assignment 5.md",
     "Home.md",
@@ -211,28 +223,15 @@
     "Finance",
     "School/CS381/Types and Polymorphism - Deep Dive.md",
     "School/CS381/Stack Machines - Deep Dive.md",
-    "School/Algorithms - Ch1 Recursion - Deep Dive.md",
-    "Reviews/Daily/2026-02-24 Review.md",
-    "School/Algorithms - Ch1 Recursion.md",
-    "Daily Notes/2026-02-25.md",
-    "Daily Notes/2026-02-24.md",
-    "Daily Notes/2026-02-23.md",
-    "Reviews/Reviews.md",
-    "Reviews/2026-02-25 Review.md",
     "Reviews/Yearly",
     "Reviews/Monthly",
     "Reviews/Daily",
-    "memory",
     "Pasted image 20260225083906.png",
-    "Reviews",
     "Images/Pasted image 20260223094732.png",
-    "Images",
     "Images/Pasted image 20260223094655.png",
     "Images/Pasted image 20260223094010.png",
     "Images/Pasted image 20260223093119.png",
     "Images/Pasted image 20260223092327.png",
-    "Images/Pasted image 20260223090404.png",
-    "Inbox",
-    "Daily Notes"
+    "Images/Pasted image 20260223090404.png"
   ]
 }
