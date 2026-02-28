@@ -9,7 +9,7 @@ tags:
 
 Part of [[2026]] — back to [[Reviews]]
 
-*In progress — month not yet complete. Based on: [[2026-02-24 Review]], [[2026-02-25 Review]]*
+*In progress — month not yet complete. Based on: [[2026-02-24 Review]], [[2026-02-25 Review]], [[2026-02-27 Review]]*
 
 ---
 
@@ -17,10 +17,12 @@ Part of [[2026]] — back to [[Reviews]]
 
 | | |
 |--|--|
-| Days tracked | 2 (Feb 24–25) |
-| Streak | 3 days consecutive (started Feb 23) |
+| Days tracked | 3 (Feb 24, 25, 27) |
+| Study streak | 3 days (Feb 23–25), paused Feb 26–27 for move |
 | Surgery date | March 12 — papillary thyroid cancer |
 | Lease | Signed Feb 25 |
+| Move | Relocating to Portland / West Linn — Feb 26–27 |
+| MECOP | Rate confirmed: $27/hr |
 
 ---
 
@@ -33,9 +35,11 @@ Part of [[2026]] — back to [[Reviews]]
 - [[Algorithms - Ch1 Recursion|Algorithms Ch. 1]] — Erickson textbook read, notes written, Abdul Bari video watched
 
 **Life**
-- Lease signed after days of back-and-forth
-- Grocery run
+- Lease signed Feb 25 after days of back-and-forth
+- Move to Portland / West Linn in progress (Feb 26–27)
 - Surgery date confirmed: March 12th
+- MECOP pay rate confirmed: $27/hr — financial plan built in [[Financial Goals]]
+- Retreat at Mount Angel monastery Feb 27–28
 
 **Fitness**
 - 5am workout on Feb 24
@@ -70,18 +74,21 @@ Part of [[2026]] — back to [[Reviews]]
 
 ## Life Context
 
-This month has been heavier than normal. The lease situation created low-grade background stress across multiple days. The surgery on March 12th is real weight to carry — even knowing the prognosis is good, it takes up mental space.
+February has been heavy. Lease stress, cancer diagnosis, surgery scheduled for March 12th, move to Portland, helping parents remotely, a monastery retreat on the weekend. The amount of life admin this month is genuinely above normal — it's not an excuse, it's context.
 
-The consistency this week — showing up three days in a row with all of that in the background — is more meaningful than it looks on a checklist.
+The study days that happened (Feb 23–25) were good. The days that didn't (Feb 26–27) were legitimately not possible. That distinction matters for an honest read of the month.
+
+MECOP is becoming concrete — $27/hr confirmed, financial plan built, goals set (Japan trip, Roth IRA, emergency fund). That clarity is something.
 
 ---
 
 ## Numbers to Track Going Forward
 
-- Days with a morning study block: 2/2
+- Days with a morning study block: 3/5 tracked (2 off for move)
 - Academic tasks completed: 4
 - LeetCode problems attempted: 1
 - LeetCode problems solved: 0 (close on first attempt)
+- Life tasks completed: lease signed, move started, surgery date set, MECOP rate confirmed
 
 ---
 
@@ -96,4 +103,4 @@ The consistency this week — showing up three days in a row with all of that in
 
 ## One Paragraph
 
-Two days tracked, both strong in the morning, both lost to life stuff in the afternoon. Lease is signed, surgery is scheduled, and the academic work that mattered got done. The ADHD patterns are consistent and named — novelty pulls, mixed task lists, discouragement on day two — which means they're workable. The month isn't over, but the foundation looks solid.
+A heavy month — move, surgery scheduled, lease drama, parents to coordinate, retreat. The study days that happened were genuinely good: algorithms Ch1 done, LeetCode attempted, HW submitted with understanding. The days that didn't happen were legitimately not possible. MECOP is now concrete with a real number ($27/hr) and a real financial plan. March will be its own thing — surgery on the 12th, recovery after, then back to building. The foundation is there.

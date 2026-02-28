@@ -128,4 +128,40 @@ When a new topic doesn't fit existing tags, create a new one and add it here and
 3. If it's a personal system/habit note → `Ideas/`
 4. If it's a course assignment → `School/CSXXX/`
 5. If it's a daily log → `Daily Notes/` with filename `YYYY-MM-DD.md`
-6. After moving, update `.claude-context.md`
+6. If it's finance/MECOP/goals content → merge into the relevant `Finance/` file
+7. After moving, update `.claude-context.md`
+
+---
+
+## Automatic Behaviors (Do These Every Session Without Being Asked)
+
+### Every Session
+- Read `.claude-context.md` first
+- Scan root for unsorted files and sort them
+- Check for and clean up inline instructions left in notes (e.g. "claude please do X")
+
+### When a New Daily Note Exists or Is Created
+- Create the daily note in `Daily Notes/YYYY-MM-DD.md` with proper frontmatter
+- Write a review in `Reviews/Daily/YYYY-MM-DD Review.md`
+- Link the review from the daily note
+- Add a row to `Daily Notes/Daily Log.md`
+- Add a row to `Reviews/Reviews.md`
+- Update `Reviews/Monthly/YYYY-MM MonthName.md` with new observations
+- Update `Reviews/Yearly/YYYY.md` metrics if meaningful
+
+### When a New Chapter/Topic Note Is Created
+- Create a companion `[Note Name] - Deep Dive.md` in the same folder
+- Add `— deep dive: [[Note Name - Deep Dive]]` to the `Part of` line in the source note
+- Link the deep dive back to the source note and parent hub
+
+### When Financial Info Is Provided (Pay Rate, Expenses, Goals)
+- Calculate take-home pay after Oregon state + federal tax + FICA
+- Build or update the monthly budget in `Finance/Financial Goals.md`
+- Update `Finance/MECOP.md` with confirmed figures
+- Update `Finance/Finance.md` current status table
+
+### When New Notes Are Created
+- Always add frontmatter (aliases + tags)
+- Always add a `Part of [[Parent]]` backlink at the top
+- Always update the parent hub to link down to the new note
+- Add `## Claude Notes` section to school content notes

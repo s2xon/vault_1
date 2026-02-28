@@ -12,115 +12,135 @@ Part of [[Finance]] — see also [[MECOP]]
 
 ---
 
-## The Priority Stack
+## The Numbers (Based on $27/hr MECOP)
 
-When money comes in (MECOP pay, side income, anything), this is the order to deploy it:
+**Per term (6 months, 40hr/week, no overtime):**
 
-1. **Cover necessities** — rent, food, utilities, phone
-2. **Emergency fund** — 3 months of expenses, sitting in a HYSA, don't touch it
-3. **Pay down any high-interest debt** — anything above ~6% interest rate
-4. **Roth IRA** — up to $7,000/year (2026 limit), only while you have earned income from work
-5. **Save for goals** — graduation buffer, move fund, whatever's next
-6. **Everything else** — discretionary, fun, side projects
+| | Amount |
+|--|--------|
+| Gross pay | $28,080 |
+| Federal income tax (est.) | ~$1,380 |
+| Oregon state tax (est.) | ~$1,384 |
+| FICA (Social Security + Medicare) | ~$2,148 |
+| **Take-home per term** | **~$23,168** |
+| **Monthly take-home** | **~$3,860** |
 
----
-
-## Emergency Fund
-
-**Target:** 3 months of living expenses
-
-Estimate your monthly expenses (Corvallis/Portland range):
-| Category | Monthly Estimate |
-|----------|-----------------|
-| Rent | $800–1,200 |
-| Food | $300–500 |
-| Transport | $100–200 |
-| Phone | $50–80 |
-| Subscriptions/misc | $50–100 |
-| **Total** | **~$1,300–2,100/mo** |
-
-**Target emergency fund: ~$4,000–6,000**
-
-Keep this in a **High-Yield Savings Account (HYSA)** — not a regular savings account. Current HYSA rates are 4–5% APY. Options: Marcus (Goldman Sachs), Ally, SoFi, Discover. Takes 10 minutes to open, takes nothing to maintain.
-
-- [ ] Open a HYSA
-- [ ] Deposit enough to hit 1 month of expenses before first MECOP term
-- [ ] Hit 3 months by end of first work term
+*Overtime at $40.50/hr adds significant upside — even 4hrs/week overtime adds ~$2,100/term.*
 
 ---
 
-## Roth IRA
+## Monthly Budget (West Linn, OR)
 
-A Roth IRA is the single best financial move for a person your age with earned income.
+| Category | Monthly | Notes |
+|----------|---------|-------|
+| Rent | $1,000 | Confirmed |
+| Utilities (gas/electric/water) | $50 | Quoted at $8 — flagging this as likely low, budgeting conservatively |
+| WiFi | $60 | Confirmed |
+| Japanese lessons | $120 | $30/week × 4 weeks |
+| Jujitsu | $120 | Estimate — confirm when you sign up |
+| Food (beyond SNAP) | $100 | SNAP covers ~$300/mo — this is eating out + misc |
+| Gas / transport | $125 | West Linn is suburban, need a car |
+| Phone | $65 | Estimate |
+| Misc / buffer | $75 | Buffer for random stuff |
+| **Total expenses** | **~$1,715** | |
+| **Monthly leftover** | **~$2,145** | |
+| **Term leftover (6 mo)** | **~$12,870** | |
 
-**Why:** You contribute *after-tax* dollars now (low tax rate as a student/intern), and everything grows tax-free forever. At retirement, you pay zero taxes on withdrawals — including all the gains.
+---
 
-**The math:** $7,000 invested at 22 years old, growing at 7%/year average for 40 years = ~$104,000. Tax free.
+## Savings Plan Per Term
 
-**Rules:**
+With ~$12,870 available after expenses each term, here's how to deploy it:
+
+| Goal | Amount | Notes |
+|------|--------|-------|
+| Japan trip fund | $7,000 | Priority goal — fund this first term |
+| Roth IRA | $3,500 | Half the annual limit — do more if possible |
+| Emergency fund top-up | $1,000 | Keep building toward 3-month target |
+| Loan payment buffer | $1,000 | Extra toward loans on top of minimum |
+| **Total allocated** | **$12,500** | |
+
+*After the Japan trip is funded (term 1), redirect that $7,000 slot in term 2 toward Roth IRA (max it at $7,000) + loans.*
+
+---
+
+## Goal Breakdown
+
+### Japan Trip — $7,000
+
+- Round-trip flight from Portland to Tokyo (JAL/ANA): ~$900–1,200
+- Accommodations for 2–3 weeks: ~$1,500–2,500 (mix of hostels/Airbnb)
+- Food, transport (JR Pass), activities: ~$2,000–3,000
+- Buffer: $500–1,000
+
+$7,000 is a solid budget for 2–3 weeks in Japan. Achievable in first MECOP term.
+
+- [ ] Open a dedicated savings account or HYSA bucket labeled "Japan"
+- [ ] Auto-transfer a fixed amount monthly during work term
+- [ ] Book flights 3–4 months in advance for best price
+
+---
+
+### Emergency Fund — Target $4,500
+
+3 months of expenses at ~$1,715/month = **$5,145**. Round to $5,000 target.
+
+- [ ] Open a HYSA (Marcus, Ally, SoFi — all around 4–5% APY)
+- [ ] Fund to $1,000 before term starts if possible
+- [ ] Hit $5,000 by end of term 2
+
+---
+
+### Roth IRA — Max During Work Terms
+
+You have earned income during MECOP terms. Use it.
+
 - Contribution limit: $7,000/year (2026)
-- Must have earned income equal to or greater than your contribution
-- Income limit: you can contribute the full amount if your income is under ~$150,000 (not a concern yet)
-- You can withdraw *contributions* (not gains) at any time penalty-free — so it can double as an emergency backup
+- Best accounts: Fidelity or Vanguard
+- Best investment: FSKAX (Fidelity total market) or VTI (Vanguard total market)
+- Why it matters: $7,000 invested at 22 grows to ~$104,000 by retirement at 7% average. Tax free.
 
-**Where to open one:** Fidelity or Vanguard. Both are free. Fidelity has a slightly better UI. Invest in a target-date index fund (e.g., Fidelity Freedom 2060) or a total market index fund (FSKAX or VTI).
-
-- [ ] Open Roth IRA at Fidelity or Vanguard
-- [ ] Contribute during first MECOP term (you'll have the earned income to qualify)
-- [ ] Contribute as close to $7,000/year as possible during work terms
+- [ ] Open Roth IRA at Fidelity before first work term paycheck
+- [ ] Set up auto-contribution during term
+- [ ] Contribute $3,500 term 1, try to max ($7,000) term 2+
 
 ---
 
-## MECOP Term Targets
+### Student Loans
 
-*Update once offer and pay rate are confirmed. These are estimates based on $28–32/hr.*
+Pay minimums during school. During work terms, add a small extra payment — even $100–200/month extra cuts years off the loan and saves significant interest.
 
-| | Conservative ($28/hr) | Target ($32/hr) |
-|--|----------------------|-----------------|
-| Gross per term | $29,000 | $33,000 |
-| Take-home (est.) | $22,700 | $25,700 |
-| Living expenses | $10,000 | $10,000 |
-| Emergency fund top-up | $2,000 | $2,000 |
-| Roth IRA contribution | $7,000 | $7,000 |
-| **Free savings** | **~$3,700** | **~$6,700** |
+- [ ] Log actual loan balance and interest rate here when you have it
+- [ ] Calculate whether it makes more sense to pay extra vs invest (if loan rate < 6%, invest first)
 
 ---
 
-## Longer Term Goals
+### Jujitsu
 
-- [ ] Graduate with emergency fund fully funded (3 months)
-- [ ] Graduate with Roth IRA contributions in for every work term
-- [ ] No high-interest debt at graduation
-- [ ] Have a clear plan for first full-time salary *before* first paycheck arrives
-
-### First Full-Time Salary Plan (Draft)
-
-CS graduates in the Pacific NW typically start at $95,000–$130,000 base. When that hits:
-- Max 401k match immediately (free money, always take it)
-- Max Roth IRA ($7,000/year)
-- Build emergency fund to 6 months if not already there
-- Everything above necessities + savings → goals (pay off anything, invest more, business)
+Budget $120/month estimate. Confirm actual cost when you sign up. Good gyms in West Linn / Lake Oswego / Portland area. Worth every dollar — especially with surgery recovery in March, check with the surgeon about when contact sports are cleared.
 
 ---
 
-## Side Business
+## Priority Stack
 
-You mentioned figuring out your side business — that income is also Roth IRA-eligible if it's self-employment income (freelance, contracting, etc.). Keep that in mind once it starts generating revenue.
+When MECOP pay comes in each month:
 
-Track business income separately from personal income. Even a simple spreadsheet. You'll need it for taxes (self-employment tax is a real thing — budget ~15% of net profit for it).
+1. Pay rent + utilities + necessities
+2. Auto-transfer to Japan fund
+3. Auto-transfer to Roth IRA (set it up to come out automatically)
+4. Extra loan payment
+5. Whatever's left = discretionary
 
-- [ ] Decide on the side business direction — see [[Ideas]]
-- [ ] Open a separate bank account for business income when it starts
-- [ ] Track income and expenses from day one
+Don't make saving a willpower thing — automate it so the money is gone before you can spend it.
 
 ---
 
 ## Monthly Tracking
 
-| Month | Income | Fixed Expenses | Variable | Saved | Roth IRA | Notes |
-|-------|--------|---------------|----------|-------|----------|-------|
-| Feb 2026 | — | — | — | — | — | Pre-MECOP |
-| Mar 2026 | — | — | — | — | — | Surgery month |
+| Month | Income | Rent | Fixed Bills | Food/Gas | Japan Fund | Roth IRA | Loans | Saved | Notes |
+|-------|--------|------|------------|----------|-----------|---------|-------|-------|-------|
+| Feb 2026 | — | — | — | — | — | — | — | — | Pre-MECOP |
+| Mar 2026 | — | — | — | — | — | — | — | — | Surgery + move |
 
 ---
 
