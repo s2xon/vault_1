@@ -31,10 +31,16 @@ tags: []
 
 ---
 
-## Catch-Up
+## Academic
 
+- [[Academic]] — self-directed learning hub
 - [[CS Catch-Up Roadmap]] — all CS gaps, prioritized
-- [[Algorithms Catch-Up]] — Jeff Erickson relearn plan
+
+---
+
+## Japanese
+
+- [[Japanese]] — study hub, grammar notes
 
 ---
 

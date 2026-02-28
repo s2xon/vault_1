@@ -11,7 +11,7 @@ tags:
 
 Things I need to go back and actually learn. Prioritized in the order I want to hit them.
 
-Part of [[School]]
+Part of [[Academic]]
 
 ---
 

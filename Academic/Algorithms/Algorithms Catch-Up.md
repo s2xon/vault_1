@@ -9,7 +9,7 @@ tags:
 
 # Algorithms Catch-Up
 
-Part of [[CS Catch-Up Roadmap]] — back to [[School]]
+Part of [[CS Catch-Up Roadmap]] — back to [[Academic]]
 
 ## Study Loop
 

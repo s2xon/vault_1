@@ -43,7 +43,8 @@ Tags = graph cluster nodes. Navigation = backlinks, not tags.
 | `#fitness` | Lifting tracker, health |
 | `#idea` | Ideas, brainstorms |
 | `#daily` | Daily notes |
-| `#review` | Daily, monthly, and yearly reviews |
+| `#review` | Daily, weekly, monthly, and yearly reviews |
+| `#japanese` | Japanese study — hub, grammar notes, progress log |
 
 ---
 
@@ -55,9 +56,10 @@ Tags = graph cluster nodes. Navigation = backlinks, not tags.
 
 **Current chains:**
 - Home → School → CS381 Notes → Stack Machines / Types & Polymorphism / Assignment 5
-- Home → School → CS Catch-Up Roadmap → Algorithms Catch-Up → Algorithms Ch1 Recursion
+- Home → Academic → CS Catch-Up Roadmap → Algorithms Catch-Up → Algorithms Ch1 Recursion
+- Home → Japanese → grammar notes
 - Home → Finance → MECOP / Financial Goals
-- Home → Reviews → Daily/ Monthly/ Yearly/
+- Home → Reviews → Daily/ Weekly/ Monthly/ Yearly/
 
 ---
 
@@ -73,14 +75,16 @@ Every chapter/topic note gets a companion `[Note Name] - Deep Dive.md` in the sa
 ## Review System
 ```
 Reviews/Daily/YYYY-MM-DD Review.md   — written every session a day is reviewed
+Reviews/Weekly/YYYY-WXX.md           — ISO week review, written at end of week or when prompted
 Reviews/Monthly/YYYY-MM MonthName.md — updated every session with new observations
 Reviews/Yearly/YYYY.md               — updated monthly
 Daily Notes/Daily Log.md             — index table, newest first
-Reviews/Reviews.md                   — hub
+Reviews/Reviews.md                   — hub (Daily / Weekly / Monthly / Yearly tables)
 ```
 **Saxon does not write reviews. Claude writes all reviews automatically.**
-Saxon drops rough notes → Claude cleans, sorts, writes the review, updates monthly + yearly.
+Saxon drops rough notes → Claude cleans, sorts, writes the review, updates weekly + monthly + yearly.
 Review tone: honest, structured, constructive. Acknowledge ADHD patterns by name. Don't minimize hard days.
+Weekly review = patterns across the week's daily notes + carry-forward items.
 Monthly review = rolling narrative of patterns across all daily reviews that month.
 
 ---
@@ -90,6 +94,7 @@ Monthly review = rolling narrative of patterns across all daily reviews that mon
 → Create `Daily Notes/YYYY-MM-DD.md` with frontmatter + Main Tasks + Notes sections
 → Write `Reviews/Daily/YYYY-MM-DD Review.md`
 → Add row to `Daily Notes/Daily Log.md` and `Reviews/Reviews.md`
+→ Update `Reviews/Weekly/` — write or update the ISO week file (YYYY-WXX.md); add to Reviews.md weekly table
 → Update `Reviews/Monthly/` with new observations and patterns
 → Update `Reviews/Yearly/` metrics if meaningful
 

@@ -31,13 +31,32 @@ Home.md                  — Dashboard/nav hub
 Obsidian Workflow.md     — How the system works
 
 School/
-  School.md              — Course hub
-  CS361/ CS362/ CS340/   — Empty course templates (active but not yet populated)
+  School.md              — Course hub (active coursework only)
+  CS361/ CS362/ CS340/   — Active course notes
   CS381/
     CS381 - Notes.md
     Stack Machines.md
     Types and Polymorphism.md
     CS381 - Assignment 5.md
+
+Academic/                — Self-directed learning (NOT coursework)
+  Academic.md            — Hub
+  CS Catch-Up Roadmap.md
+  Algorithms/
+    Algorithms Catch-Up.md
+    Algorithms - Ch1 Recursion.md
+    Algorithms - Ch1 Recursion - Deep Dive.md
+
+Japanese/
+  Grammar/               — Individual grammar pattern notes
+  Japanese.md            — Study hub
+
+Finance/
+  Finance.md / MECOP.md / Financial Goals.md
+
+Reviews/
+  Daily/ Weekly/ Monthly/ Yearly/
+  Reviews.md             — Hub with tables for all levels
 
 Projects/Conn/           — 5 interconnected design docs for the Conn meetup app
 Ideas/                   — Idea dump + individual idea notes
@@ -79,7 +98,8 @@ Keep tags flat and simple — one tag per topic/folder. No subtags. Tags create 
 | `#fitness` | Workouts, lifting, health |
 | `#idea` | Random ideas, brainstorms |
 | `#daily` | Daily notes |
-| `#review` | Reviews — daily, monthly, yearly |
+| `#review` | Reviews — daily, weekly, monthly, yearly |
+| `#japanese` | Japanese study — hub, grammar notes, progress log |
 
 When a new topic doesn't fit existing tags, add a new flat tag and update this file, `.claude-context.md`, and `memory/MEMORY.md`.
 
@@ -143,9 +163,12 @@ When a new topic doesn't fit existing tags, add a new flat tag and update this f
 - Write a review in `Reviews/Daily/YYYY-MM-DD Review.md`
 - Link the review from the daily note
 - Add a row to `Daily Notes/Daily Log.md`
-- Add a row to `Reviews/Reviews.md`
+- Add a row to `Reviews/Reviews.md` (Daily table)
+- Write or update `Reviews/Weekly/YYYY-WXX.md` (ISO week) — add row to Reviews.md Weekly table if new
 - Update `Reviews/Monthly/YYYY-MM MonthName.md` with new observations
 - Update `Reviews/Yearly/YYYY.md` metrics if meaningful
+
+**IMPORTANT: Saxon never writes reviews. Claude writes all daily, weekly, monthly, and yearly reviews automatically.**
 
 ### When a New Chapter/Topic Note Is Created
 - Create a companion `[Note Name] - Deep Dive.md` in the same folder

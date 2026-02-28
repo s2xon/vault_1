@@ -20,12 +20,5 @@ tags:
 
 ---
 
-## Catch-Up
-
-- [[CS Catch-Up Roadmap]] — all CS topics to go back and learn
-- [[Algorithms Catch-Up]] — Jeff Erickson relearn plan
-
----
-
 ## Quick Links
 - [[Home]]
