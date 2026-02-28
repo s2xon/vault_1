@@ -16,5 +16,9 @@ I live in west linn
 
 i get ~$300 a month for snap
 
+idk anything else i have
+
+claude use this to help me build a saving plan i want to inveest and pay off loans slowly
+
 
 
