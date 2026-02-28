@@ -4,7 +4,6 @@ aliases:
   - Software Testing Project
 tags:
   - school
-  - school/cs362
 ---
 
 # CS 362 - Project

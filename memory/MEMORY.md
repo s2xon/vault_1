@@ -55,22 +55,18 @@ tags:
 ---
 
 ## Tag System
+Flat only — no subtags ever. Tags = central graph nodes. Navigation = backlinks.
+
 | Tag | For |
 |-----|-----|
-| `#school` | Anything school-related |
-| `#school/cs361` | CS 361 |
-| `#school/cs362` | CS 362 |
-| `#school/cs340` | CS 340 |
-| `#school/cs381` | CS 381 |
-| `#cs/vm` | Virtual machines, bytecode, interpreters |
-| `#cs/compilers` | Compilers, parsing, code generation |
-| `#cs/algorithms` | Algorithms catch-up notes |
-| `#project` | Any project work |
-| `#project/conn` | Conn app |
-| `#fitness` | Workouts, lifting, health |
-| `#idea` | Random ideas |
+| `#school` | All school notes |
+| `#cs` | CS content beyond coursework (algorithms, deep dives) |
+| `#project` | Any project |
+| `#finance` | Finance, MECOP, goals |
+| `#fitness` | Workouts, health |
+| `#idea` | Ideas |
 | `#daily` | Daily notes |
-| `#finance` | Finance, MECOP, financial goals |
+| `#review` | Reviews |
 | `#review` | Daily productivity reviews |
 
 ---

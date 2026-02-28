@@ -5,7 +5,6 @@ aliases:
   - Databases
 tags:
   - school
-  - school/cs340
 ---
 # CS 340 - Introduction to Databases
 

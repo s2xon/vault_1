@@ -4,8 +4,7 @@ aliases:
   - Stack VM Deep Dive
 tags:
   - school
-  - school/cs381
-  - cs/vm
+  - cs
 ---
 # Stack Machines — Deep Dive
 

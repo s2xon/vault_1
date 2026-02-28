@@ -4,7 +4,6 @@ aliases:
   - Polymorphism
 tags:
   - school
-  - school/cs381
 ---
 # Types and Polymorphism
 

@@ -5,7 +5,7 @@ aliases:
   - Algorithms Review
 tags:
   - school
-  - cs/algorithms
+  - cs
 ---
 
 # Algorithms Catch-Up

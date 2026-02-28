@@ -4,7 +4,7 @@ aliases:
   - Recursion Deep Dive
 tags:
   - school
-  - cs/algorithms
+  - cs
 ---
 # Algorithms — Ch1 Recursion: Deep Dive
 

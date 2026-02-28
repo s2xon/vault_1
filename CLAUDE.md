@@ -68,23 +68,20 @@ Aliases make Obsidian suggest the note when typing `[[`. Tags control graph view
 
 ## Tag System
 
+Keep tags flat and simple — one tag per topic/folder. No subtags. Tags create the central nodes in the graph view; navigation between notes is handled by backlinks, not tag hierarchy.
+
 | Tag | For |
 |-----|-----|
-| `#school` | Anything school-related |
-| `#school/cs361` | CS 361 — Software Engineering I |
-| `#school/cs362` | CS 362 — Software Engineering II |
-| `#school/cs340` | CS 340 — Intro to Databases |
-| `#school/cs381` | CS 381 — Programming Language Fundamentals |
-| `#cs/vm` | Virtual machines, bytecode, interpreters |
-| `#cs/compilers` | Compilers, parsing, code generation |
-| `#project` | Any project work |
-| `#project/conn` | Conn app |
+| `#school` | All school notes — courses, assignments, lecture notes |
+| `#cs` | CS content beyond coursework — algorithms, deep dives, catch-up plans |
+| `#project` | Any project — Conn app, side projects, anything being built |
+| `#finance` | Finance, MECOP, budgets, financial goals |
 | `#fitness` | Workouts, lifting, health |
-| `#idea` | Random ideas |
+| `#idea` | Random ideas, brainstorms |
 | `#daily` | Daily notes |
-| `#finance` | Finance, MECOP, financial goals |
+| `#review` | Reviews — daily, monthly, yearly |
 
-When a new topic doesn't fit existing tags, create a new one and add it here and in `.claude-context.md` and `Obsidian Workflow.md`.
+When a new topic doesn't fit existing tags, add a new flat tag and update this file, `.claude-context.md`, and `memory/MEMORY.md`.
 
 ---
 
@@ -105,9 +102,10 @@ When a new topic doesn't fit existing tags, create a new one and add it here and
 | `tag:#school` | Blue |
 | `tag:#fitness` | Green |
 | `tag:#project` | Purple |
+| `tag:#cs` | Teal |
 | `tag:#idea` | Yellow |
-| `tag:#inbox` | Red |
 | `tag:#finance` | Orange |
+| `tag:#inbox` | Red |
 
 ---
 

@@ -4,7 +4,6 @@ aliases:
   - Polymorphism Deep Dive
 tags:
   - school
-  - school/cs381
 ---
 # Types and Polymorphism — Deep Dive
 

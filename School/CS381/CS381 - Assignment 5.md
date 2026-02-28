@@ -4,7 +4,6 @@ aliases:
   - Assignment 5
 tags:
   - school
-  - school/cs381
 ---
 # CS381 — Assignment 5
 

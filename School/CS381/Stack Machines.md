@@ -4,9 +4,7 @@ aliases:
   - Stack-Based VM
 tags:
   - school
-  - school/cs381
-  - cs/vm
-  - cs/compilers
+  - cs
 ---
 # Stack Machines
 

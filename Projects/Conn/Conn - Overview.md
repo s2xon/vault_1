@@ -5,7 +5,6 @@ aliases:
   - Meetup App
 tags:
   - project
-  - project/conn
 ---
 # Conn
 

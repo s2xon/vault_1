@@ -4,7 +4,6 @@ aliases:
   - Genres
 tags:
   - project
-  - project/conn
 ---
 # Groups & Genres
 

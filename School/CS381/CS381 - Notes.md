@@ -5,7 +5,6 @@ aliases:
   - PLF
 tags:
   - school
-  - school/cs381
 ---
 # CS 381 - Programming Language Fundamentals
 

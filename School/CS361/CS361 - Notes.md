@@ -5,7 +5,6 @@ aliases:
   - SE1
 tags:
   - school
-  - school/cs361
 ---
 # CS 361 - Software Engineering I
 

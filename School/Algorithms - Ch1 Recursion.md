@@ -5,7 +5,7 @@ aliases:
   - Erickson Chapter 1
 tags:
   - school
-  - cs/algorithms
+  - cs
 ---
 # Algorithms — Chapter 1: Recursion
 
