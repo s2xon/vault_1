@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Financial Goals.md",
+                "file": "Obsidian Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial Goals"
+              "title": "Obsidian Workflow"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#school",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +172,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8832df88c5b41169",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,28 +205,28 @@
   },
   "active": "b42aa3f99fd6165e",
   "lastOpenFiles": [
+    "Reviews/Yearly/2026.md",
+    "Reviews/Monthly/2026-02 February.md",
     "Reviews/Daily/2026-02-27 Review.md",
     "Daily Notes/2026-02-27.md",
+    "Finance/MECOP.md",
     "Finance/Finance.md",
+    "Finance/Financial Goals.md",
     "Untitled.md",
     "Untitled.base",
     "CLAUDE.md",
     "MECOP Internship and goals.md",
-    "Finance/Financial Goals.md",
-    "Finance/MECOP.md",
     "2026-27-2.md",
     "Finance",
     "School/CS381/Types and Polymorphism - Deep Dive.md",
     "School/CS381/Stack Machines - Deep Dive.md",
     "School/Algorithms - Ch1 Recursion - Deep Dive.md",
-    "Reviews/Monthly/2026-02 February.md",
     "Reviews/Daily/2026-02-24 Review.md",
     "School/Algorithms - Ch1 Recursion.md",
     "Daily Notes/2026-02-25.md",
     "Daily Notes/2026-02-24.md",
     "Daily Notes/2026-02-23.md",
     "Reviews/Daily/2026-02-25 Review.md",
-    "Reviews/Yearly/2026.md",
     "Reviews/Reviews.md",
     "Reviews/2026-02-25 Review.md",
     "Reviews/Yearly",

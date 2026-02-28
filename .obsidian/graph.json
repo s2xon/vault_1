@@ -1,17 +1,17 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#school  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
@@ -26,55 +26,6 @@
       "color": {
         "a": 1,
         "rgb": 1800704
-      }
-    },
-    {
-      "query": "tag:#school/cs361  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#school/cs362",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#school/cs381",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#school/cs340",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag:#cs/vm  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "tag:#cs/compilers  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#project/conn  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
       }
     },
     {
@@ -109,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2225995131798801,
+  "scale": 1.1961691728999495,
   "close": false
 }
