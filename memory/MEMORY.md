@@ -45,6 +45,7 @@ Tags = graph cluster nodes. Navigation = backlinks, not tags.
 | `#daily` | Daily notes |
 | `#review` | Daily, weekly, monthly, and yearly reviews |
 | `#japanese` | Japanese study — hub, grammar notes, progress log |
+| `#vision` | Life Vision, long-term goals, north star documents |
 
 ---
 
@@ -86,6 +87,14 @@ Saxon drops rough notes → Claude cleans, sorts, writes the review, updates wee
 Review tone: honest, structured, constructive. Acknowledge ADHD patterns by name. Don't minimize hard days.
 Weekly review = patterns across the week's daily notes + carry-forward items.
 Monthly review = rolling narrative of patterns across all daily reviews that month.
+
+**Review lens — always use `[[Life Vision]]` as the north star:**
+- Did the morning block hold? (the one reliable window)
+- Did the body get trained? (jujitsu, lifting, movement)
+- Did Japanese get any reps?
+- Did academic/engineering work move forward?
+- Is Saxon trending toward the man in the vision — disciplined, faithful, building, present?
+Don't moralize. Just name what's happening relative to what he's building toward.
 
 ---
 

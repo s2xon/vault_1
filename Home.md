@@ -62,6 +62,12 @@ tags: []
 
 ---
 
+## Vision
+
+- [[Life Vision]] — The Clan of Payne — the long game
+
+---
+
 ## Other
 
 - [[Ideas]] — idea dump
