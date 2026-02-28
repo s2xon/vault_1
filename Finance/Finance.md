@@ -12,28 +12,35 @@ Back to [[Home]]
 
 ---
 
-## Overview
-
-| Area | Page |
-|------|------|
-| MECOP Internship | [[MECOP]] |
-| Financial Goals | [[Financial Goals]] |
-
----
-
-## Quick Numbers
-
-*Update as things change.*
+## Pages
 
 | | |
 |--|--|
-| MECOP status | Applying |
-| Current monthly income | — |
-| Monthly expenses | — |
-| Savings | — |
+| [[MECOP]] | Co-op internship — application, pay, prep, work terms |
+| [[Financial Goals]] | Priority stack, emergency fund, Roth IRA, monthly tracking |
 
 ---
 
-## Notes
+## Current Status
 
-Financial tracking and planning lives here — income from MECOP work terms, savings goals, and longer-term targets.
+| | |
+|--|--|
+| MECOP | Applying |
+| Emergency fund | Not started |
+| Roth IRA | Not opened |
+| Side business | Planning |
+| Surgery | March 12 — factor into timeline |
+
+---
+
+## The Short Version
+
+Right now the only job is get MECOP locked in. That's the financial lever that changes everything — one work term can fund the emergency fund, open the Roth IRA, and cover most of living expenses for 6 months.
+
+Order of operations:
+1. **Get the MECOP offer** → [[MECOP]]
+2. **Open a HYSA** → emergency fund target $4,000–6,000
+3. **Open a Roth IRA** → contribute during every work term
+4. **Figure out the side business** → [[Ideas]]
+
+Nothing else needs to happen before step 1. Stay focused there.

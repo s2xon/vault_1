@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Finance/Financial Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Financial Goals"
             }
           }
         ],
@@ -194,16 +194,18 @@
   },
   "active": "b42aa3f99fd6165e",
   "lastOpenFiles": [
+    "Finance/Finance.md",
+    "Untitled.md",
+    "Untitled.base",
+    "CLAUDE.md",
     "MECOP Internship and goals.md",
     "Finance/Financial Goals.md",
     "Finance/MECOP.md",
     "2026-27-2.md",
-    "Finance/Finance.md",
     "Finance",
     "School/CS381/Types and Polymorphism - Deep Dive.md",
     "School/CS381/Stack Machines - Deep Dive.md",
     "School/Algorithms - Ch1 Recursion - Deep Dive.md",
-    "Untitled.md",
     "Reviews/Monthly/2026-02 February.md",
     "Reviews/Daily/2026-02-24 Review.md",
     "School/Algorithms - Ch1 Recursion.md",
@@ -221,11 +223,8 @@
     "memory/MEMORY.md",
     "Home.md",
     "Daily Notes/Daily Log.md",
-    "Untitled.base",
     "memory",
     "Algorithms study system.md",
-    "Algorithms Chapter 1.md",
-    "School/Algorithms Catch-Up.md",
     "Pasted image 20260225083906.png",
     "Reviews",
     "Images/Pasted image 20260223094732.png",
