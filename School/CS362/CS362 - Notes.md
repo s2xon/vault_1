@@ -4,7 +4,7 @@ aliases:
   - Software Engineering II
   - SE2
 tags:
-  - school
+  - cs
 ---
 # CS 362 - Software Engineering II
 

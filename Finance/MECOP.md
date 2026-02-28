@@ -5,7 +5,7 @@ aliases:
   - Internship
 tags:
   - finance
-  - school
+  - cs
 ---
 # MECOP — Multiple Engineering Cooperative Program
 

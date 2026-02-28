@@ -72,8 +72,7 @@ Keep tags flat and simple — one tag per topic/folder. No subtags. Tags create 
 
 | Tag | For |
 |-----|-----|
-| `#school` | All school notes — courses, assignments, lecture notes |
-| `#cs` | CS content beyond coursework — algorithms, deep dives, catch-up plans |
+| `#cs` | Everything CS — courses, assignments, algorithms, deep dives, catch-up |
 | `#project` | Any project — Conn app, side projects, anything being built |
 | `#finance` | Finance, MECOP, budgets, financial goals |
 | `#fitness` | Workouts, lifting, health |

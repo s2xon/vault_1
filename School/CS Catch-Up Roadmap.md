@@ -4,7 +4,7 @@ aliases:
   - CS Gaps
   - Go Back References
 tags:
-  - school
+  - cs
 ---
 
 # CS Catch-Up Roadmap

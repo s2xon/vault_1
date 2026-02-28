@@ -4,7 +4,6 @@ aliases:
   - Jeff Erickson Algorithms
   - Algorithms Review
 tags:
-  - school
   - cs
 ---
 

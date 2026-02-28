@@ -3,7 +3,6 @@ aliases:
   - Stack Machines Deep Dive
   - Stack VM Deep Dive
 tags:
-  - school
   - cs
 ---
 # Stack Machines — Deep Dive

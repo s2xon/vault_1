@@ -4,7 +4,7 @@ aliases:
   - Software Engineering I
   - SE1
 tags:
-  - school
+  - cs
 ---
 # CS 361 - Software Engineering I
 

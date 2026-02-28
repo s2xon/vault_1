@@ -59,8 +59,7 @@ Flat only — no subtags ever. Tags = central graph nodes. Navigation = backlink
 
 | Tag | For |
 |-----|-----|
-| `#school` | All school notes |
-| `#cs` | CS content beyond coursework (algorithms, deep dives) |
+| `#cs` | Everything CS — courses, assignments, algorithms, deep dives, catch-up |
 | `#project` | Any project |
 | `#finance` | Finance, MECOP, goals |
 | `#fitness` | Workouts, health |

@@ -11,14 +11,14 @@
       "query": "tag:#school  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 13514347
       }
     },
     {
       "query": "tag:#fitness  ",
       "color": {
         "a": 1,
-        "rgb": 5412832
+        "rgb": 14720594
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "tag:#daily  ",
       "color": {
         "a": 1,
-        "rgb": 14379520
+        "rgb": 1326299
       }
     },
     {
@@ -54,6 +54,13 @@
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#cs  ",
+      "color": {
+        "a": 1,
+        "rgb": 2741503
       }
     }
   ],
