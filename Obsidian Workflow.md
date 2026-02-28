@@ -4,7 +4,7 @@ aliases:
   - How To
 tags: []
 ---
-# Obsidian Workflow
+- [ ] # Obsidian Workflow
 
 This takes 10% of your time. The other 90% is actual work.
 
