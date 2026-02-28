@@ -11,10 +11,14 @@
             "id": "fe81438e5d79c1fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Life Vision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Life Vision"
             }
           }
         ]
@@ -190,6 +194,7 @@
   },
   "active": "fe81438e5d79c1fc",
   "lastOpenFiles": [
+    "Images/Pasted image 20260225083906.png",
     "Daily Notes/2026-03-07.md",
     "Reviews/Yearly/2026.md",
     "Reviews/Daily/2026-02-24 Review.md",
@@ -215,7 +220,6 @@
     "Daily Notes/2026-03-15.md",
     "Daily Notes/2026-03-14.md",
     "Daily Notes/2026-03-13.md",
-    "Daily Notes/2026-03-12.md",
     "Reviews/Weekly",
     "Japanese/Grammar",
     "Japanese",
@@ -226,7 +230,6 @@
     "Reviews/Yearly",
     "Reviews/Monthly",
     "Reviews/Daily",
-    "Pasted image 20260225083906.png",
     "Images/Pasted image 20260223094732.png",
     "Images/Pasted image 20260223094655.png",
     "Images/Pasted image 20260223094010.png",
