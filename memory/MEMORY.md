@@ -78,6 +78,8 @@ Reviews/Yearly/YYYY.md               — updated monthly
 Daily Notes/Daily Log.md             — index table, newest first
 Reviews/Reviews.md                   — hub
 ```
+**Saxon does not write reviews. Claude writes all reviews automatically.**
+Saxon drops rough notes → Claude cleans, sorts, writes the review, updates monthly + yearly.
 Review tone: honest, structured, constructive. Acknowledge ADHD patterns by name. Don't minimize hard days.
 Monthly review = rolling narrative of patterns across all daily reviews that month.
 
