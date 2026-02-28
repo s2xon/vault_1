@@ -101,6 +101,26 @@ MECOP is becoming concrete — $27/hr confirmed, financial plan built, goals set
 
 ---
 
+## Vision Pillars — February
+
+*How this month moved the needle on the [[Life Vision]]:*
+
+| Pillar | February Activity | Verdict |
+|--------|-------------------|---------|
+| **Craft / Engineering** | Algorithms Ch1, HW5 with conceptual understanding, CS Ethics, LeetCode attempt, CS362 project setup | Solid. The instinct to understand rather than copy is showing up consistently |
+| **Physical** | 5am workout (Feb 24), morning routine held on study days | Present but inconsistent. Move week disrupted it. Not a pattern yet — watching |
+| **Faith** | Holy Spirit retreat at Mount Angel monastery Feb 27–28 | Best move of the month. Deliberate. Under pressure. That's what real investment looks like |
+| **Japanese** | Zero reps tracked all month | The biggest gap. Anki is 10 minutes. If Japan is a real goal, this can't keep being optional |
+| **Wealth / MECOP** | $27/hr confirmed, financial plan built in [[Financial Goals]] | Foundational win. Japan fund, Roth IRA, emergency fund all have real numbers now |
+| **Family / Loyalty** | 4 hours helping parents mid-move (Feb 27), dinner with GF after lease stress (Feb 25) | The behavior is already there — loyal, present, showing up when it costs something |
+
+**What February tells you about who you're becoming:**
+The morning discipline is real — 5am wakeup, earbuds in, hard task first. That's not easy to sustain through a move, a surgery date, and a lease crisis, and you largely did it. The faith investment at the end of the month was deliberate and mattered. The engineering work moved forward despite the noise.
+
+The gap is Japanese. Every week it shows up as a miss. If the Japan chapter is the goal, the language is the first requirement — not when you feel ready, now.
+
+---
+
 ## One Paragraph
 
-A heavy month — move, surgery scheduled, lease drama, parents to coordinate, retreat. The study days that happened were genuinely good: algorithms Ch1 done, LeetCode attempted, HW submitted with understanding. The days that didn't happen were legitimately not possible. MECOP is now concrete with a real number ($27/hr) and a real financial plan. March will be its own thing — surgery on the 12th, recovery after, then back to building. The foundation is there.
+A heavy month — move, surgery scheduled, lease drama, parents to coordinate, retreat. The study days that happened were genuinely good: algorithms Ch1 done, LeetCode attempted, HW submitted with understanding. The days that didn't happen were legitimately not possible. MECOP is now concrete with a real number ($27/hr) and a real financial plan built around Japan, a Roth IRA, and an emergency fund. The Mount Angel retreat at the end of the month was the right call — faith invested deliberately under pressure. March will be its own thing: surgery on the 12th, recovery after, then the first full month in the new place. The foundation is there.
