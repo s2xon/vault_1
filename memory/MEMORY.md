@@ -59,7 +59,8 @@ Flat only — no subtags ever. Tags = central graph nodes. Navigation = backlink
 
 | Tag | For |
 |-----|-----|
-| `#cs` | Everything CS — courses, assignments, algorithms, deep dives, catch-up |
+| `#school` | Actual coursework — CS381, CS362, CS361, CS340, assignments, lecture notes |
+| `#academic` | Self-directed learning — algorithms catch-up, chapter notes, deep dives, roadmaps |
 | `#project` | Any project |
 | `#finance` | Finance, MECOP, goals |
 | `#fitness` | Workouts, health |

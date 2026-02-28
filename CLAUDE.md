@@ -72,7 +72,8 @@ Keep tags flat and simple — one tag per topic/folder. No subtags. Tags create 
 
 | Tag | For |
 |-----|-----|
-| `#cs` | Everything CS — courses, assignments, algorithms, deep dives, catch-up |
+| `#school` | Actual coursework — CS381, CS362, CS361, CS340, assignments, lecture notes |
+| `#academic` | Self-directed learning — algorithms catch-up, chapter notes, deep dives, roadmaps |
 | `#project` | Any project — Conn app, side projects, anything being built |
 | `#finance` | Finance, MECOP, budgets, financial goals |
 | `#fitness` | Workouts, lifting, health |

@@ -3,7 +3,7 @@ aliases:
   - Types and Polymorphism
   - Polymorphism
 tags:
-  - cs
+  - school
 ---
 # Types and Polymorphism
 

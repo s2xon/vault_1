@@ -3,7 +3,7 @@ aliases:
   - CS 362 Project
   - Software Testing Project
 tags:
-  - cs
+  - school
 ---
 
 # CS 362 - Project

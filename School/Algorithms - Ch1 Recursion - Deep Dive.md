@@ -3,7 +3,7 @@ aliases:
   - Ch1 Deep Dive
   - Recursion Deep Dive
 tags:
-  - cs
+  - academic
 ---
 # Algorithms — Ch1 Recursion: Deep Dive
 

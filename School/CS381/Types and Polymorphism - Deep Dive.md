@@ -3,7 +3,7 @@ aliases:
   - Types Deep Dive
   - Polymorphism Deep Dive
 tags:
-  - cs
+  - school
 ---
 # Types and Polymorphism — Deep Dive
 

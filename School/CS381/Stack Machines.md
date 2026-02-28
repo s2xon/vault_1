@@ -3,7 +3,7 @@ aliases:
   - Stack VM
   - Stack-Based VM
 tags:
-  - cs
+  - school
 ---
 # Stack Machines
 

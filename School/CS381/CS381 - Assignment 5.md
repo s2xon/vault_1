@@ -3,7 +3,7 @@ aliases:
   - CS381 HW5
   - Assignment 5
 tags:
-  - cs
+  - school
 ---
 # CS381 — Assignment 5
 

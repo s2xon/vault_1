@@ -4,7 +4,7 @@ aliases:
   - Jeff Erickson Algorithms
   - Algorithms Review
 tags:
-  - cs
+  - academic
 ---
 
 # Algorithms Catch-Up

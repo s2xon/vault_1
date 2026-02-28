@@ -3,7 +3,7 @@ aliases:
   - Classes
   - Courses
 tags:
-  - cs
+  - school
 ---
 # School
 
