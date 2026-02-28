@@ -69,11 +69,21 @@ tags:
 | `#project/conn` | Conn app |
 | `#fitness` | Workouts, lifting, health |
 | `#idea` | Random ideas |
-| `#nav` | Navigation/dashboard pages |
 | `#daily` | Daily notes |
+| `#finance` | Finance, MECOP, financial goals |
 | `#review` | Daily productivity reviews |
 
 ---
+
+## Deep Dive Companion Docs
+Every chapter/topic note the user writes gets a companion `[Note Name] - Deep Dive.md` in the same folder.
+- Link from source note: add `— deep dive: [[Note Name - Deep Dive]]` to the `Part of` line at the top
+- Deep dive covers: fuller examples, things missed, exam-worthy facts, worked problems, comparisons
+- Existing deep dives: `Algorithms - Ch1 Recursion - Deep Dive`, `Stack Machines - Deep Dive`, `Types and Polymorphism - Deep Dive`
+- When a new chapter note is created → create its deep dive immediately
+
+## Finance Folder
+`Finance/` — hub is `Finance.md`. Contains `MECOP.md` (Oregon State co-op program tracker) and `Financial Goals.md`. Tag: `#finance`. Link Finance from Home.
 
 ## Claude Notes Sections
 Every school content note should have a `## Claude Notes` section at the bottom (before Related) with corrections, clarifications, or things worth flagging. Add this when creating or cleaning up any school note.

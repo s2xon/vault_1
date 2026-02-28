@@ -2,8 +2,7 @@
 aliases:
   - Workflow
   - How To
-tags:
-  - nav
+tags: []
 ---
 # Obsidian Workflow
 

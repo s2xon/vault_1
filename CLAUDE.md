@@ -81,8 +81,8 @@ Aliases make Obsidian suggest the note when typing `[[`. Tags control graph view
 | `#project/conn` | Conn app |
 | `#fitness` | Workouts, lifting, health |
 | `#idea` | Random ideas |
-| `#nav` | Navigation/dashboard pages |
 | `#daily` | Daily notes |
+| `#finance` | Finance, MECOP, financial goals |
 
 When a new topic doesn't fit existing tags, create a new one and add it here and in `.claude-context.md` and `Obsidian Workflow.md`.
 
@@ -107,7 +107,7 @@ When a new topic doesn't fit existing tags, create a new one and add it here and
 | `tag:#project` | Purple |
 | `tag:#idea` | Yellow |
 | `tag:#inbox` | Red |
-| `tag:#nav` | Gray |
+| `tag:#finance` | Orange |
 
 ---
 

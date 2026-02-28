@@ -9,7 +9,7 @@ tags:
 ---
 # Algorithms — Chapter 1: Recursion
 
-Part of [[Algorithms Catch-Up]]
+Part of [[Algorithms Catch-Up]] — deep dive: [[Algorithms - Ch1 Recursion - Deep Dive]]
 
 ---
 

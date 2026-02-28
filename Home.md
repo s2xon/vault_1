@@ -2,8 +2,7 @@
 aliases:
   - Dashboard
   - Start
-tags:
-  - nav
+tags: []
 ---
 # Home
 
@@ -48,6 +47,12 @@ tags:
 - [[Reviews]] — hub (daily / monthly / yearly)
 - [[2026-02 February]] — current month
 - [[2026]] — current year
+
+---
+
+## Finance
+
+- [[Finance]] — MECOP internship, financial goals, tracking
 
 ---
 

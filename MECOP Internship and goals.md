@@ -20,5 +20,6 @@ idk anything else i have
 
 claude use this to help me build a saving plan i want to inveest and pay off loans slowly
 
+:w
 
 

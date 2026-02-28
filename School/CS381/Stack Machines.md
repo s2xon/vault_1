@@ -10,7 +10,7 @@ tags:
 ---
 # Stack Machines
 
-Part of [[CS381 - Notes]]
+Part of [[CS381 - Notes]] — deep dive: [[Stack Machines - Deep Dive]]
 
 ---
 

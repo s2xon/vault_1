@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#school  ",
@@ -18,21 +18,14 @@
       "query": "tag:#fitness  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5412832
       }
     },
     {
       "query": "tag:#project  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#nav  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 1800704
       }
     },
     {
@@ -97,6 +90,13 @@
         "a": 1,
         "rgb": 14379520
       }
+    },
+    {
+      "query": "tag:#finance  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6417104533434972,
-  "close": true
+  "scale": 1.2225995131798801,
+  "close": false
 }

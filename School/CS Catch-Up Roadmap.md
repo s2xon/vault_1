@@ -5,7 +5,6 @@ aliases:
   - Go Back References
 tags:
   - school
-  - nav
 ---
 
 # CS Catch-Up Roadmap

@@ -8,7 +8,7 @@ tags:
 ---
 # Types and Polymorphism
 
-Part of [[CS381 - Notes]]
+Part of [[CS381 - Notes]] — deep dive: [[Types and Polymorphism - Deep Dive]]
 
 ---
 

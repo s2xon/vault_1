@@ -3,7 +3,6 @@ aliases:
   - Reviews
   - Review Hub
 tags:
-  - nav
   - review
 ---
 # Reviews
